@@ -1,0 +1,3 @@
+resultMap.put("error", 1);
+				resultMap.put("message", "文件上传失败");
+				return resultMap;

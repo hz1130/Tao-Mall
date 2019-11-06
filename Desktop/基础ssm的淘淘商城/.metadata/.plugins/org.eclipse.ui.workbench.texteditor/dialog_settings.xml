@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="192.168.13.129"/>
+			<item value="taotao-rest"/>
+			<item value="192.168.169.146"/>
+			<item value="192.168.169.14"/>
+			<item value="jdbc.password"/>
+			<item value="uploadFile"/>
+			<item value="开始"/>
+			<item value="picFileUpload"/>
+			<item value="dir"/>
+			<item value="multipary"/>
+			<item value="multipa"/>
+			<item value="mult"/>
+			<item value="mui"/>
+			<item value="muit"/>
+			<item value="mu"/>
+		</list>
+		<list key="replacehistory">
+			<item value="192.168.169.146"/>
+			<item value="taotao-search"/>
+			<item value=""/>
+			<item value="4.0"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="300" key="DIALOG_WIDTH"/>
+		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
+		<item value="410" key="DIALOG_HEIGHT"/>
+		<item value="891" key="DIALOG_X_ORIGIN"/>
+		<item value="65" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

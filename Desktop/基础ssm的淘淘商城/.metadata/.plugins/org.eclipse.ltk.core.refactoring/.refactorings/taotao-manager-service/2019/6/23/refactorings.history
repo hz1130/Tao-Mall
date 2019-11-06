@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.taotao.service.impl.PictureServiceImol&apos; to &apos;PictureServiceImpl&apos;&#x0D;&#x0A;- Original project: &apos;taotao-manager-service&apos;&#x0D;&#x0A;- Original element: &apos;com.taotao.service.impl.PictureServiceImol&apos;&#x0D;&#x0A;- Renamed element: &apos;com.taotao.service.impl.PictureServiceImpl&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;PictureServiceImol&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.taotao.service.impl{PictureServiceImol.java[PictureServiceImol" matchStrategy="1" name="PictureServiceImpl" qualified="false" references="true" similarDeclarations="false" stamp="1559467387230" textual="false" version="1.0"/>
+</session>

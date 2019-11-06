@@ -1,0 +1,11 @@
+INDEX VERSION 1.4+D:\基础ssm的淘淘商城\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2832769381.index
+3609442454.index
+2141462497.index
+3237631926.index
+3109012304.index
+3863016331.index
+2775156998.index
+4049959446.index
+1621095163.index
+3681256939.index

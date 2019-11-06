@@ -1,0 +1,42 @@
+package com.taotao.controller;
+
+import static org.junit.Assert.*;
+
+import java.io.File;
+import java.io.FileInputStream;
+
+import org.apache.commons.net.ftp.FTPClient;
+import org.junit.Test;
+
+public class FTPTest {
+
+	@Test
+		public void testFtpClient() throws Exception{
+		
+		// 	创建一个FtpCLient 对象
+		
+		FTPClient ftpClient = new FTPClient();
+		
+		// 创建tfp链接
+		
+		ftpClient.connect("192.168.169.146",21);
+		
+		//登录ft服务器， 使用用户名密码
+		
+		ftpClient.login("ftpuser", "123");
+		
+		
+		//上传文件
+		//读取本地文件
+		FileInputStream inputStream = new FileInputStream(new File("‪D:\\美工作业\\07补充素材\\zz.jpg"));
+		//第一个参数：服务器端文档名
+		
+		//第二个参数：上床文档的inputSteam
+		
+		ftpClient.storeFile("hello1.jpg",inputStream);
+		
+		//关闭链接
+		
+	}
+
+}

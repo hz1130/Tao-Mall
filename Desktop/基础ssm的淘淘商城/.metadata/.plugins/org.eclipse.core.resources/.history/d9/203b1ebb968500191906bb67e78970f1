@@ -1,0 +1,11 @@
+package com.taotao.controller;
+
+/*
+ * 上传图片处理
+ * */
+
+public class PictureContorller {
+
+	
+	
+}

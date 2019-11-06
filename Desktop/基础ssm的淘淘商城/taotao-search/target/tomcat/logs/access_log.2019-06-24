@@ -1,0 +1,8 @@
+127.0.0.1 - - [24/Jun/2019:09:38:07 +0800] "GET /search/query?q=Mac&page=1 HTTP/1.1" 200 101 http-bio-8083-exec-1 1535
+127.0.0.1 - - [24/Jun/2019:09:38:07 +0800] "GET /search/query?q=Mac&page=1 HTTP/1.1" 200 101 http-bio-8083-exec-3 27
+127.0.0.1 - - [24/Jun/2019:09:39:14 +0800] "GET /search/query?q=Apple&page=1 HTTP/1.1" 200 20249 http-bio-8083-exec-5 382
+127.0.0.1 - - [24/Jun/2019:09:39:21 +0800] "GET /search/query?q=Apple+MacBook&page=1 HTTP/1.1" 200 20627 http-bio-8083-exec-7 62
+127.0.0.1 - - [24/Jun/2019:09:39:37 +0800] "GET /search/query?q=Apple+MacBook&page=1 HTTP/1.1" 200 20627 http-bio-8083-exec-9 92
+127.0.0.1 - - [24/Jun/2019:09:39:41 +0800] "GET /search/query?q=Apple+MacBook&page=2 HTTP/1.1" 200 18782 http-bio-8083-exec-1 79
+127.0.0.1 - - [24/Jun/2019:09:39:43 +0800] "GET /search/query?q=Apple+MacBook&page=1 HTTP/1.1" 200 20627 http-bio-8083-exec-3 125
+127.0.0.1 - - [24/Jun/2019:10:51:20 +0800] "GET /search/query?q=Apple+MacBook&page=1 HTTP/1.1" 200 20627 http-bio-8083-exec-5 121

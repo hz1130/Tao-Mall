@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="taotao-sso"/>
+<aop-project name="taotao-rest"/>
+<aop-project name="taotao-manager-service"/>
+<aop-project name="taotao-search"/>
+<aop-project name="taotao-portal"/>
+<aop-project name="taotao-manager-web"/>
+</aop-reference-model>

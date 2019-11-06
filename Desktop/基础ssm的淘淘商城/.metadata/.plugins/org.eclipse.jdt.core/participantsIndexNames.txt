@@ -1,0 +1,21 @@
+INDEX VERSION 1.131
+D:\基础ssm的淘淘商城\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3383018015.index
+\taotao-portal\src\main\java
+D:\基础ssm的淘淘商城\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2913356879.index
+\taotao-portal\src\main\java
+D:\基础ssm的淘淘商城\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1035142979.index
+\taotao-portal\src\main\java
+D:\基础ssm的淘淘商城\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1511670507.index
+\taotao-portal\src\main\java
+D:\基础ssm的淘淘商城\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2346493784.index
+\taotao-portal\src\main\java
+D:\基础ssm的淘淘商城\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1083750738.index
+\taotao-manager-web\src\main\java
+D:\基础ssm的淘淘商城\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1497872763.index
+\taotao-sso\src\main\java
+D:\基础ssm的淘淘商城\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1661534593.index
+\taotao-manager-web\src\main\java
+D:\基础ssm的淘淘商城\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1240011046.index
+\taotao-portal\src\main\java
+D:\基础ssm的淘淘商城\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2721289618.index
+\taotao-manager-web\src\main\java

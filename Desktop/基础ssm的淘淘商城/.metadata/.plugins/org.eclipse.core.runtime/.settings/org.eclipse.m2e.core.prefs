@@ -1,0 +1,6 @@
+eclipse.m2.defaultRuntime=apache-tomcat-9.0.14
+eclipse.m2.runtimes=apache-tomcat-9.0.14
+eclipse.m2.runtimesNodes/apache-tomcat-9.0.14/location=C\:\\apache-maven-3.5.3
+eclipse.m2.runtimesNodes/apache-tomcat-9.0.14/type=EXTERNAL
+eclipse.m2.userSettingsFile=C\:\\apache-maven-3.5.3\\conf\\settings.xml
+eclipse.preferences.version=1
